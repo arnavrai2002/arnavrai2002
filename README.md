@@ -57,8 +57,6 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=lightgrey&style=flat-square)
-
 
 
 
