@@ -4,7 +4,7 @@
 
 ---
 
-![Mr. Fresh](https://tenor.com/view/mr-fresh-gif-4054581024881011023)
+![Mr. Fresh](https://imgur.com/jJ0YfAF)
 
 ### 👀 About Me
 - 🎮 **Interested in** Game Development
