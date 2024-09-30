@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arnav!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7AB0A&lines=Mr.+Fresh+Git+|+Game+Dev+|+Web+Dev+|+Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7AB0A&lines=Game+Dev+|+Web+Dev)](https://git.io/typing-svg)
 
 ---
 
