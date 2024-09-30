@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arnav!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7AB0A&lines=Game+Developer+|+Web+Developer+|+Technology+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7AB0A&lines=Game+Developer+|+Web+Developer+|)](https://git.io/typing-svg)
 
 ---
 
@@ -10,7 +10,6 @@
 - 💻 **Skilled in:** Unreal Engine, MERN Stack, and more!
 - 🎨 **Passionate about:** Creating beautiful and intuitive designs
 - 📫 **Reach me at:** [arnavrai5500@gmail.com](mailto:arnavrai5500@gmail.com)
-- 😄 **Pronouns:** He/Him
 
 ---
 
