@@ -4,7 +4,7 @@
 
 ---
 
-![Mr. Fresh](https://imgur.com/jJ0YfAF)
+![Mr. Fresh]([img]https://i.imgur.com/jJ0YfAF.gif[/img])
 
 ### 👀 About Me
 - 🎮 **Interested in** Game Development
