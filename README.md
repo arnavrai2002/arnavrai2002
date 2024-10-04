@@ -1,7 +1,7 @@
 #  Hi, ![Mr. Fresh](https://i.imgur.com/jJ0YfAF.gif[/img]) 
  # I'm Arnav! 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7AB0A&lines=Game+Developer+|+Web+Developer)](https://git.io/typing-svg)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0000FF&lines=Game+Developer+|+Web+Developer)](https://git.io/typing-svg)
 
 ---
 
